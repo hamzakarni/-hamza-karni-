@@ -1,0 +1,418 @@
+[en]
+KICK_PLAYER = \w\wKick Player\r
+UNBAN_PLAYER = \w\wUnban Player\r
+BAN_PLAYER = \w\wBan Player\r
+SLAP_SLAY = \w\wSlap/Slay Player\r
+TEAM_PLAYER = \w\wTeam Player ^n\r
+CHANGEL = \w\wChangelevel\r
+VOTE_MAPS = \w\wVote for maps ^n\r
+SPECH_STUFF = \w\wSpeech Stuff\r
+CLIENT_COM = \w\wClient Commands\r
+SERVER_COM = \w\wServer Commands\r
+CVARS_SET = \w\wCvars Settings\r
+CONFIG = \w\wConfiguration\r
+LANG_SET = \w\wLanguage Settings\r
+STATS_SET = \w\wStats Settings ^n\r
+PAUSE_PLUG = \w\wPause Plugins\r
+RES_WEAP = \w\wRestrict Weapons\r
+TELE_PLAYER = \w\wTeleport Player\r
+
+[de]
+KICK_PLAYER = \w\wKick Spieler\r
+UNBAN_PLAYER = \w\wUnban Player\r
+BAN_PLAYER = \w\wBan Spieler\r
+SLAP_SLAY = \w\wSchlage/Toete Spieler\r
+TEAM_PLAYER = \w\wTeam Spieler ^n\r
+CHANGEL = \w\wMapwechsel\r
+VOTE_MAPS = \w\wMap Abstimmung ^n\r
+SPECH_STUFF = \w\wSoundausgabe\r
+CLIENT_COM = \w\wClient-Befehle\r
+SERVER_COM = \w\wServer-Befehle\r
+CVARS_SET = \w\wServer-Einstellungen\r
+CONFIG = \w\wKonfiguration\r
+LANG_SET = \w\wSpracheinstellung\r
+STATS_SET = \w\wStatistik-Einstellungen ^n\r
+PAUSE_PLUG = \w\wPlugins pausieren\r
+RES_WEAP = \w\wWaffen verbieten\r
+TELE_PLAYER = \w\wTeleport Spieler\r
+
+[sr]
+KICK_PLAYER = \w\wKick Igraca\r
+UNBAN_PLAYER = \w\wUnban Player\r
+BAN_PLAYER = \w\wBan Igraca\r
+SLAP_SLAY = \w\wSlap/Slay Igraca\r
+TEAM_PLAYER = \w\wPromeni Tim Igraca ^n\r
+CHANGEL = \w\wPromeni Mapu\r
+VOTE_MAPS = \w\wGlasaj za mape ^n\r
+SPECH_STUFF = \w\wGovorne Komande\r
+CLIENT_COM = \w\wKomande Klijenta\r
+SERVER_COM = \w\wKomande Servera\r
+CVARS_SET = \w\wKomande Podesavanja\r
+CONFIG = \w\wKonfiguracija\r
+LANG_SET = \w\wJezik\r
+STATS_SET = \w\wPodesavanje Statistike ^n\r
+PAUSE_PLUG = \w\wPauza Pluginova
+RES_WEAP = \w\wOgranici Oruzja
+TELE_PLAYER = \w\wTeleport Igraca
+
+[tr]
+KICK_PLAYER = \w\wOyuncuyu at
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wOyuncuyu banla
+SLAP_SLAY = \w\wOyuncuyu tokatla/oldur
+TEAM_PLAYER = \w\wTakim oyuncusu ^n
+CHANGEL = \w\wBolum degisdir
+VOTE_MAPS = \w\wMapler icin oylama ^n
+SPECH_STUFF = \w\wKonusma cihazlari
+CLIENT_COM = \w\wOyuncu emirleri
+SERVER_COM = \w\wServer emirleri
+CVARS_SET = \w\wCvars ayarlari
+CONFIG = \w\wConfig ayarlari
+LANG_SET = \w\wDil ayarlari
+STATS_SET = \w\wStatistik ayarlari ^n
+PAUSE_PLUG = \w\wPluginleri durdurun
+RES_WEAP = \w\wYasakli silahlar
+TELE_PLAYER = \w\wOyuncuyu teleport yapi
+
+[fr]
+KICK_PLAYER = \w\wKicker Joueur
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBannir Joueur
+SLAP_SLAY = \w\wFrapper/Foudroyer Joueur
+TEAM_PLAYER = \w\wEquipe du Joueur ^n
+CHANGEL = \w\wChanger la Carte
+VOTE_MAPS = \w\wVote Carte ^n
+SPECH_STUFF = \w\wCommandes Voix/Paroles
+CLIENT_COM = \w\wCommandes Clients
+SERVER_COM = \w\wCommandes Serveur
+CVARS_SET = \w\wConfiguration Cvars
+CONFIG = \w\wConfiguration
+LANG_SET = \w\wConfiguration Langue
+STATS_SET = \w\wConfiguration Stats ^n
+PAUSE_PLUG = \w\wPause Plugins
+RES_WEAP = \w\wRestriction des Armes
+TELE_PLAYER = \w\wTeleporter Joueur
+
+[sv]
+KICK_PLAYER = \w\wSparka spelare
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBannlys spelare
+SLAP_SLAY = \w\wSmiska/Slakta spelare
+TEAM_PLAYER = \w\wLagspelare^n
+CHANGEL = \w\wKartbyte
+VOTE_MAPS = \w\wVal av karta^n
+SPECH_STUFF = \w\wTal
+CLIENT_COM = \w\wKlientkommandon
+SERVER_COM = \w\wServerkommandon
+CVARS_SET = \w\wCvarsinst'a'llningar
+CONFIG = \w\wInst'a'llningar
+LANG_SET = \w\wSprak inst'a'llningar
+STATS_SET = \w\wStatistikinst'a'llningar^n
+PAUSE_PLUG = \w\wPausa Plugins
+RES_WEAP = \w\wDefiniera vapen
+TELE_PLAYER = \w\wTeleportera spelare
+
+[da]
+KICK_PLAYER = \w\wKick Spiller
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBan Spiller
+SLAP_SLAY = \w\wKlask/Draeb Spiller
+TEAM_PLAYER = \w\wHold Spiller ^n
+CHANGEL = \w\wSkift Bane
+VOTE_MAPS = \w\wStem om bane ^n
+SPECH_STUFF = \w\wTale Menu
+CLIENT_COM = \w\wKlient Kommandoer
+SERVER_COM = \w\wServer Kommandoer
+CVARS_SET = \w\wCvars Instillinger
+CONFIG = \w\wKonfiguration
+LANG_SET = \w\wSprog Indstillinger
+STATS_SET = \w\wstatistik indstillinger ^n
+PAUSE_PLUG = \w\wPause Plugins
+RES_WEAP = \w\wForbyd Vaaben
+TELE_PLAYER = \w\wTeleport Spiller
+
+[pl]
+KICK_PLAYER = \w\wWyrzuc gracza
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wZbanuj gracza
+SLAP_SLAY = \w\wUderz/zgladz gracza
+TEAM_PLAYER = \w\wZmiana druzyny ^n
+CHANGEL = \w\wZmien mape
+VOTE_MAPS = \w\wGlosowanie na mapy ^n
+SPECH_STUFF = \w\wRzeczy zw. z rozmowa
+CLIENT_COM = \w\wKomendy na graczach
+SERVER_COM = \w\wKomendy serwerowe
+CVARS_SET = \w\wUstawienia Cvar'ow
+CONFIG = \w\wKonfiguracja
+LANG_SET = \w\wUstawienia jezyka
+STATS_SET = \w\wUstawienia statystyk ^n
+PAUSE_PLUG = \w\wZatrzymaj pluginy
+RES_WEAP = \w\wZablokuj bronie
+TELE_PLAYER = \w\wTeleportuj gracza
+
+[nl]
+KICK_PLAYER = \w\wSpeler Kicken
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wSpeler Verbannen
+SLAP_SLAY = \w\wSpeler Slaan/Slachten
+TEAM_PLAYER = \w\wSpeler van ploeg veranderen ^n
+CHANGEL = \w\wMap Veranderen
+VOTE_MAPS = \w\wStem op maps ^n
+SPECH_STUFF = \w\wGeluiden
+CLIENT_COM = \w\wGebruikerscommando's
+SERVER_COM = \w\wServercommando's
+CVARS_SET = \w\wCvar-instellingen
+CONFIG = \w\wConfiguratie
+LANG_SET = \w\wTaalinstellingen
+STATS_SET = \w\wStatistiekinstellingen ^n
+PAUSE_PLUG = \w\wPlugins pauzeren
+RES_WEAP = \w\wWapens Verbieden
+TELE_PLAYER = \w\wSpeler Teleporteren
+
+[es]
+KICK_PLAYER = \w\wExpulsar Jugador
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBanear Jugador
+SLAP_SLAY = \w\wPegar/Matar Jugador
+TEAM_PLAYER = \w\wEquipo del Jugador ^n
+CHANGEL = \w\wCambiar de mapa
+VOTE_MAPS = \w\wVotar mapas ^n
+SPECH_STUFF = \w\wComandos de Voz
+CLIENT_COM = \w\wComandos de Cliente
+SERVER_COM = \w\wComandos del Servidor
+CVARS_SET = \w\wConfiguracion de Cvars
+CONFIG = \w\wConfiguracion
+LANG_SET = \w\wConfiguracion de Idioma
+STATS_SET = \w\wConfiguracion de las Estadisticas ^n
+PAUSE_PLUG = \w\wPausar Plugins
+RES_WEAP = \w\wRestringir Armas
+TELE_PLAYER = \w\wTeletransportar Jugador
+
+[bp]
+KICK_PLAYER = \w\wKickar Jogadores
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBanir Jogadores
+SLAP_SLAY = \w\wTapa/Assassinar Jogadores
+TEAM_PLAYER = \w\wTime do Jogador ^n
+CHANGEL = \w\wMudar Mapa
+VOTE_MAPS = \w\wVotacao de mapas ^n
+SPECH_STUFF = \w\wMenu de Vozes
+CLIENT_COM = \w\wComandos de Cliente
+SERVER_COM = \w\wComandos de Servidor
+CVARS_SET = \w\wAjustes dos Cvars
+CONFIG = \w\wConfiguracao
+LANG_SET = \w\wAjustes da Linguagem
+STATS_SET = \w\wAjustes do Stats ^n
+PAUSE_PLUG = \w\wPausar Plugins
+RES_WEAP = \w\wLimitar Armas
+TELE_PLAYER = \w\wTeletransportar Jogador
+
+[cz]
+KICK_PLAYER = \w\wVykopnout hrace
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBanovat hrace
+SLAP_SLAY = \w\wPrastit/Zabit Hrace
+TEAM_PLAYER = \w\wTymovy hrac ^n
+CHANGEL = \w\wZmena levelu
+VOTE_MAPS = \w\wHlasovani pro zmenu mapy ^n
+SPECH_STUFF = \w\wVeci okolo reci
+CLIENT_COM = \w\wPrikazy klienta
+SERVER_COM = \w\wPrikazy serveru
+CVARS_SET = \w\wNastaveni Cvar
+CONFIG = \w\wKonfigurace
+LANG_SET = \w\wNastaveni jazyka
+STATS_SET = \w\wNastaveni statistik ^n
+PAUSE_PLUG = \w\wPauznout pluginy
+RES_WEAP = \w\wOmezit zbrane
+TELE_PLAYER = \w\wTeleportovat hrace
+
+[fi]
+KICK_PLAYER = \w\wPotki pelaaja
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBannaa pelaaja
+SLAP_SLAY = \w\wSlappaa/slayaa pelaaja
+TEAM_PLAYER = \w\wVaihda pejaajan tiimia ^n
+CHANGEL = \w\wVaihda mappi
+VOTE_MAPS = \w\wVotea mappeja^n
+SPECH_STUFF = \w\wPuhemoussea
+CLIENT_COM = \w\wClientkomentoja
+SERVER_COM = \w\wPalvelinkomentoja
+CVARS_SET = \w\wCvarsasetuksia
+CONFIG = \w\wSaatoa
+LANG_SET = \w\wKieliasetuksia
+STATS_SET = \w\wTilastoasetuksia ^n
+PAUSE_PLUG = \w\wPysayta plugineja
+RES_WEAP = \w\wKiella aseita
+TELE_PLAYER = \w\wTeleporttaa pelaaja
+
+[ls]
+KICK_PLAYER = \w\w|<!c|< n00b
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\w|3@n n00b
+SLAP_SLAY = \w\w$|@p/$|@y n00b
+TEAM_PLAYER = \w\wT34m n00b ^n
+CHANGEL = \w\wCh4ng3|3\/3|
+VOTE_MAPS = \w\wV0t3 f0|2 m4ps ^n
+SPECH_STUFF = \w\wSp33ch Stuff
+CLIENT_COM = \w\wCli3nt C0m@ndz
+SERVER_COM = \w\wS3|2\/3|2 C0m@ndz
+CVARS_SET = \w\wC\/4|2s |200t c0n|=igz
+CONFIG = \w\wC0nf!gu|24ti0n
+LANG_SET = \w\w|_4ngu4g3 |200t c0n|=igz
+STATS_SET = \w\wSt4ts |200t c0n|=igz ^n
+PAUSE_PLUG = \w\wP4us3 Plugins
+RES_WEAP = \w\wR3st|2ict W34p0ns
+TELE_PLAYER = \w\wT3l3p0|2t n00b
+
+[bg]
+KICK_PLAYER = \w\wKickni Igra4
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBanni Igra4
+SLAP_SLAY = \w\wSlapni/Slayni Igra4
+TEAM_PLAYER = \w\wSmeni Otbora na Igra4 ^n
+CHANGEL = \w\wSmeni karta
+VOTE_MAPS = \w\wGlasuvai za karta ^n
+SPECH_STUFF = \w\wNe6ta za govorene
+CLIENT_COM = \w\wklient Comandi
+SERVER_COM = \w\wServer Comandi
+CVARS_SET = \w\wNastroiki za Cvars
+CONFIG = \w\wConfiguracia
+LANG_SET = \w\wEzikovi nastroiki
+STATS_SET = \w\wNastroiki za Statistikite ^n
+PAUSE_PLUG = \w\wPause Plugini
+RES_WEAP = \w\wBlokirai Orajia
+TELE_PLAYER = \w\wTeleportirai Igra4i
+
+[ro]
+KICK_PLAYER = \w\wKick Jucator
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBan Jucator
+SLAP_SLAY = \w\wPlesneste/Ucide Jucator
+TEAM_PLAYER = \w\wJucator Echipa ^n
+CHANGEL = \w\wSchimba harta
+VOTE_MAPS = \w\wVoteaza pentru hartile ^n
+SPECH_STUFF = \w\wSpeech
+CLIENT_COM = \w\wComenzi Jucatori
+SERVER_COM = \w\wComenzi Server
+CVARS_SET = \w\wSetari Cvar
+CONFIG = \w\wConfiguratie
+LANG_SET = \w\wSetari Limbaj
+STATS_SET = \w\wSetari Statistici ^n
+PAUSE_PLUG = \w\wOpreste Plugin-uri
+RES_WEAP = \w\wRestrictioneaza Arme
+TELE_PLAYER = \w\wTeleporteaza Jucator
+
+[hu]
+KICK_PLAYER = \w\wJatekos kirugasa
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wJatekos ban
+SLAP_SLAY = \w\wJatekos Megutes/Megoles
+TEAM_PLAYER = \w\wJatekos csapatvaltasa ^n
+CHANGEL = \w\wPalyavaltas
+VOTE_MAPS = \w\wSzavazas palyara ^n
+SPECH_STUFF = \w\wBeszed menu
+CLIENT_COM = \w\wJatekos parancsok
+SERVER_COM = \w\wSzerver parancsok
+CVARS_SET = \w\wCvars Beallitasok
+CONFIG = \w\wConfiguracio
+LANG_SET = \w\wNyelv Beallitasok
+STATS_SET = \w\wStat beallitasok ^n
+PAUSE_PLUG = \w\wPillanat alj Pluginok
+RES_WEAP = \w\wFelfuggesztett fegyverek
+TELE_PLAYER = \w\wTeleport jatekos
+
+[lt]
+KICK_PLAYER = \w\wIsmesti zaideja
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wISbaninti zaideja
+SLAP_SLAY = \w\wSumusti/Uzmusti zaideja
+TEAM_PLAYER = \w\wKomandos zaidejas ^n
+CHANGEL = \w\wPakeisti zemelapi
+VOTE_MAPS = \w\wBalsuoti uz zemelapius ^n
+SPECH_STUFF = \w\wKalbos meniu
+CLIENT_COM = \w\wKliento komandos
+SERVER_COM = \w\wServerio komandos
+CVARS_SET = \w\wKomandu nustatymai
+CONFIG = \w\wKonfiguracija
+LANG_SET = \w\wKalbos nustatymai
+STATS_SET = \w\wStatistikos nustatymai ^n
+PAUSE_PLUG = \w\wSustabdyti pluginus
+RES_WEAP = \w\wUzdrausti ginklus
+TELE_PLAYER = \w\wTeleportuoti zaideja
+
+[sk]
+KICK_PLAYER = \w\wVykopnut hraca
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wZabanovat hraca
+SLAP_SLAY = \w\wPlacnut/Zabit Hraca
+TEAM_PLAYER = \w\wTymovy hrac ^n
+CHANGEL = \w\wZmena mapy
+VOTE_MAPS = \w\wHlasovanie pre zmenu mapy ^n
+SPECH_STUFF = \w\wVeci okolo reci
+CLIENT_COM = \w\wPrikazy klienta
+SERVER_COM = \w\wPrikazy serveru
+CVARS_SET = \w\wNastavenie Cvar
+CONFIG = \w\wKonfiguracia
+LANG_SET = \w\wNastavenie jazyka
+STATS_SET = \w\wNastavenie statistyk ^n
+PAUSE_PLUG = \w\wPauznut pluginy
+RES_WEAP = \w\wObmedzit zbrane
+TELE_PLAYER = \w\wTeleportovat hraca
+
+[mk]
+KICK_PLAYER = \w\wKikni igrac
+UNBAN_PLAYER = \w\wUnban Player
+BAN_PLAYER = \w\wBaniraj igrac
+SLAP_SLAY = \w\wSlap/Slay igrac
+TEAM_PLAYER = \w\wPromeni go timot na igracite ^n
+CHANGEL = \w\wPromeni mapa
+VOTE_MAPS = \w\wGlasanje za mapa ^n
+SPECH_STUFF = \w\wGlasovni Komandi
+CLIENT_COM = \wKomandi za klientite
+SERVER_COM = \wKomandi za serverot
+CVARS_SET = \wPodesuvanje na serverot
+CONFIG = \wGotovi konfiguracii za serverot
+LANG_SET = \wIzbor na jazik
+STATS_SET = \wPodesuvanje na statistikata ^n
+PAUSE_PLUG = \wPauza na plaginite
+RES_WEAP = \wOgranicuvanje na oruzja
+TELE_PLAYER = \wTeleportiranje na igraci
+
+[hr]
+KICK_PLAYER = \wKick igraca
+UNBAN_PLAYER = \wUnban Player
+BAN_PLAYER = \wBan igraca
+SLAP_SLAY = \wSamar/slay igraca
+TEAM_PLAYER = \wPromijeni tim igraca ^n
+CHANGEL = \wPromijeni mapu
+VOTE_MAPS = \wGlasaj za mape ^n
+SPECH_STUFF = \wGovorne naredbe
+CLIENT_COM = \wNaredbe klijenta
+SERVER_COM = \wNaredbe servera
+CVARS_SET = \wNaredbe podesavanja
+CONFIG = \wKonfiguracija
+LANG_SET = \wJezik
+STATS_SET = \wPodesavanje statistike ^n
+PAUSE_PLUG = \wPauziranje pluginova
+RES_WEAP = \wZabrana oruzja
+TELE_PLAYER = \wTeleportiraj igraca
+
+[bs]
+KICK_PLAYER = \wKick Igraca
+UNBAN_PLAYER = \wUnban Player
+BAN_PLAYER = \wBan Igraca
+SLAP_SLAY = \wSlap/Slay Igraca
+TEAM_PLAYER = \wPromijeni Tim Igraca ^n
+CHANGEL = \wPromijeni Mapu
+VOTE_MAPS = \wGlasaj za mape ^n
+SPECH_STUFF = \wGovorne Komande
+CLIENT_COM = \wKomande Klijenta
+SERVER_COM = \wKomande Servera
+CVARS_SET = \wKomande Podesavanja
+CONFIG = \wKonfiguracija
+LANG_SET = \wJezik
+STATS_SET = \wPodesavanje Statistike ^n
+PAUSE_PLUG = \wPauza Pluginova
+RES_WEAP = \wOgranici Oruzja
+TELE_PLAYER = \wTeleport Igraca
+

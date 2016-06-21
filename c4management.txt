@@ -1,0 +1,55 @@
+[en]
+BM_AD_NOPLANT = %i CTs duhet me kan ne loj per me montu ti c4 !
+BM_AD_ONLYMAIN = Jon ma pak se %i CTja, Ti mundesh me montu vetem te %s !
+BM_AD_ALLSITES = Te gjith vendet e bombave jon te lejuar.
+BM_ALREADY = Tashme eshte percaktu vendi i bombes c4 !
+BM_DEFINED = Tashme veq eshte percaktu !
+BM_NOTBOMBSITE = Ti nuk je te veni i bombes c4 !
+
+[fr]
+BM_AD_NOPLANT = %i CTs doivent jouer pour que tu puisses poser la bombe !
+BM_AD_ONLYMAIN = Il y'a moins de %i CTs, tu ne peux planter que sur : %s !
+BM_AD_ALLSITES = Tous les sites bombe sont disponibles.
+BM_ALREADY = Le site bombe principal est deja defini !
+BM_DEFINED = Le site bombe principal a ete defini avec succes !
+BM_NOTBOMBSITE = Tu n'es pas sur un site bombe !
+
+[de]
+BM_AD_NOPLANT = %i CTs muessen spielen damit du die Bombe legen kannst !
+BM_AD_ONLYMAIN = Es spielen weniger als %i CTs, du kannst die Bombe nur an %s legen!
+BM_AD_ALLSITES = Alle Bombenplaetze sind aktiv.
+BM_ALREADY = Hauptbombenplatz bereits definiert !
+BM_DEFINED = Hauptbombenplatz definiert !
+BM_NOTBOMBSITE = Du bist auf keinem Bombenplatz !
+
+[bp]
+BM_AD_NOPLANT = %i CTs tem que jogar na ordem que voce pode plantar c4 !
+BM_AD_ONLYMAIN = Tem menos de %i CTs, voce so pode plantar no %s !
+BM_AD_ALLSITES = Todos os bombsites estao habilitados.
+BM_ALREADY = Bombsite principal ja esta definido !
+BM_DEFINED = Bombsite principal definido !
+BM_NOTBOMBSITE = Voce nao esta em um bombsite !
+
+[es]
+BM_AD_NOPLANT = %i CTs tienen que jugar en orden para plantar la C4 !
+BM_AD_ONLYMAIN = Hay menos de %i CTs, solo puedes plantar en %s !
+BM_AD_ALLSITES = Todos los sitios de bomba estan activados.
+BM_ALREADY = El sitio de bomba principal ya esta definido !
+BM_DEFINED = Sitio de bomba principal definido !
+BM_NOTBOMBSITE = No estas en el sitio de bomba ! 
+
+[pl]
+BM_AD_NOPLANT = W druzynie CT musi byc co najmniej %i graczy, aby mozna bylo podlozyc bombe !
+BM_AD_ONLYMAIN = W grze jest mniej niz %i CT, mozesz podlozyc bombe tylko na %s !
+BM_AD_ALLSITES = Wszystkie BSy sa aktywne.
+BM_ALREADY = Glowny bombsite jest juz ustawiony !
+BM_DEFINED = Glowny bombsite zostal ustawiony !
+BM_NOTBOMBSITE = Nie jestes na BSie !
+
+[lt]
+BM_AD_NOPLANT = %i CTs turi zaisti jeigu nori padeti c4 !
+BM_AD_ONLYMAIN = Yra tik %i CTs, gali padeti bomba %s !
+BM_AD_ALLSITES = Visos bombos vietos ijunktos.
+BM_ALREADY = Pagrindine bombos vieta jau yra !
+BM_DEFINED = Pagrindine bombos vieta yra !
+BM_NOTBOMBSITE = Tu nesi bombos vietoje ! 

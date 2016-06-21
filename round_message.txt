@@ -1,0 +1,26 @@
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[en]
+RND_MSG = !g[BlaCk~NiGhT] !t%d !g- Map: !t%s !y| Players: !g%d!y/!g%d !y!

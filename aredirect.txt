@@ -1,0 +1,87 @@
+[en]
+SERVERS_MENU = Servers Menu
+SIPS_PRINTED = Servers IPs got printed in your Console
+CMD_DISABLED = This command isnt enabled
+TYPE_MSG = Type in console
+PRINT_MSG = Server IP got printed in your console
+PUB_CMDS = Open Servers Menu: /servers | Get All IPs: /serversips 
+
+[pt]
+SERVERS_MENU = Menu De Servidores
+SIPS_PRINTED = Os IPs dos servidores foram escritos na tua consola
+CMD_DISABLED = Este comando esta desativado
+TYPE_MSG = Escreve na consola
+PRINT_MSG = O IP do servidor foi escrito na tua consola
+PUB_CMDS = Abrir Menu De Servidores: /servers | Todos Os IPs: /serversips 
+
+[es]
+SERVERS_MENU = Menu servidores
+SIPS_PRINTED = Las IPs de los servidores se imprimieron en tu consola
+CMD_DISABLED = Este comando no esta habilitado
+TYPE_MSG = Escribe en consola
+PRINT_MSG = La IP del servidor se imprimio en tu consola
+PUB_CMDS = Abrir el menu de servidores: /servers | Obtener todas las IPs: /serversips
+
+[pl]
+SERVERS_MENU = Menu serwerow
+SIPS_PRINTED = Adresy serwerow wyswietlone w konsoli.
+CMD_DISABLED = Ta funkcja nie jest wlaczona.
+TYPE_MSG = Wpisz w konsoli.
+PRINT_MSG = Adres IP wyswietlony w konsoli
+PUB_CMDS = Otworz menu serwerow: /servers | Pokaz adresy wszystkich serwerow /serversips
+
+[sv]
+SERVERS_MENU = Servers Meny
+SIPS_PRINTED = Servers IPs har blivit printade i din console
+CMD_DISABLED = Detta kommandot är inte tillgängligt
+TYPE_MSG = Skriv i console
+PRINT_MSG = Server IP blev printad i din console
+PUB_CMDS = Öppna Servers Meny: /servers | Se alla IPs: /serversips
+
+[sk]
+SERVERS_MENU = Menu Serverov
+SIPS_PRINTED = IP adresy serverov najdes vo svojej konzoli
+CMD_DISABLED = Tento prikaz nie je povoleny
+TYPE_MSG = Pozri konzolu
+PRINT_MSG = IP adresu servera najdes vo svojej konzoli
+PUB_CMDS = Otvorit Menu Serverov: /servers | Zoznam vsetkych IP: /serversips
+
+[ro]
+SERVERS_MENU = Meniul Serverelor
+SIPS_PRINTED = IPurile Serverelor au fost scrise in Consola
+CMD_DISABLED = Aceasta comanda nu este pornita
+TYPE_MSG = Introdu in consola
+PRINT_MSG = IPul Serverului a fost scris in Consola
+PUB_CMDS = Deschide Meniul Serverelor: /servers | Afla toate IPurile: /serversips
+
+[ru]
+SERVERS_MENU = Меню сервера
+SIPS_PRINTED = Ип сервера записан в консоле
+CMD_DISABLED = Эта команда не активна
+TYPE_MSG = Пиши в консоле
+PRINT_MSG = Ип сервера записан в консоле
+PUB_CMDS = Меню сервера: /servers | Все сервера: /serversips
+
+[bp]
+SERVERS_MENU = Menu de Servidores 
+SIPS_PRINTED = IPs dos servidores foram impressos em seu Console
+CMD_DISABLED = Este comando nao e habilitado
+TYPE_MSG = Digite no console
+PRINT_MSG = IP do servidor foi impresso em seu Console
+PUB_CMDS = Abrir Menu de Servidores : /servers | Obter todos os IPs: /serversips
+
+[mk]
+SERVERS_MENU = Menu so serveri
+SIPS_PRINTED = IP adresite na serverite se isprintani vo konzolata
+CMD_DISABLED = Ovaa komanda e izkluchena
+TYPE_MSG = Napishi vo konzolata
+PRINT_MSG = IP adresata na serverot e isprintana vo konzolata
+PUB_CMDS = Otvori menuto za serveri: /servers | Site IP adresi: /serversips
+
+[bg]
+SERVERS_MENU = Menu sus serveri
+SIPS_PRINTED = IP adresite na serverite sa izpisani v konzolata
+CMD_DISABLED = Tazi komanda e izkliuchena
+TYPE_MSG = Napishi v konzolata
+PRINT_MSG = IP adresa na servera e izpisan v konzolata
+PUB_CMDS = Otvori menuto za serveri: /servers | Vsichki IP adresi: /serversips

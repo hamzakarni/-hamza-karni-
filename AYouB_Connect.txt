@@ -1,0 +1,3 @@
+[en]
+
+AYOUB_CONNECT_PLAYER = !g[BlaCk~NiGhT] !tWeLcome !g%s !nTo our server !tYour RanK !nIs !g%d !nFrom !g%d 

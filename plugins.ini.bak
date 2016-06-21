@@ -1,0 +1,148 @@
+; Admin Base - Always one has to be activated
+admin.amxx		; admin base (required for any admin-related)
+;admin_sql.amxx		; admin base - SQL version (comment admin.amxx)
+; Basic
+admincmd.amxx		; basic admin console commands
+adminhelp.amxx		; help command for admin console commands
+adminslots.amxx		; slot reservation
+multilingual.amxx	; Multi-Lingual management
+
+; Menus
+menufront.amxx		; front-end for admin menus
+cmdmenu.amxx		; command menu (speech, settings)
+plmenu.amxx		; players menu (kick, ban, client cmds.)
+;telemenu.amxx		; teleport menu (Fun Module required!)
+mapsmenu.amxx		; maps menu (vote, changelevel)
+pluginmenu.amxx		; Menus for commands/cvars organized by plugin
+
+; Chat / Messages
+adminchat.amxx		; console chat commands
+antiflood.amxx		; prevent clients from chat-flooding the server
+scrollmsg.amxx		; displays a scrolling message
+imessage.amxx		; displays information messages
+adminvote.amxx		; vote commands
+
+; Map related
+nextmap.amxx		; displays next map in mapcycle
+mapchooser.amxx		; allows to vote for next map
+timeleft.amxx		; displays time left on map
+
+; Configuration
+pausecfg.amxx		; allows to pause and unpause some plugins
+statscfg.amxx		; allows to manage stats plugins via menu and commands
+
+; Counter-Strike
+;restmenu.amxx		; restrict weapons menu
+statsx.amxx		; stats on death or round end (CSX Module required!)
+;miscstats.amxx		; bunch of events announcement for Counter-Strike
+;stats_logging.amxx	; weapons stats logging (CSX Module required!)
+
+; Enable to use AMX Mod plugins
+;amxmod_compat.amxx	; AMX Mod backwards compatibility layer
+
+; Custom - Add 3rd party plugins here
+
+
+; // PluGins Larax //
+Map_Spawns_Editor.amxx	;Mapat i krijon spawn-at dmth 32 vs 32
+autorr.amxx			;AMX Lo3 (live on three)
+;pingfaker.amxx		;Ping i rrejshem per Playera
+stuck.amxx
+multijump.amxx
+grenade_trail.amxx
+invasion.amxx
+furien.amxx
+furienvipmod.amxx
+furien_superknife.amxx
+furien_parachute.amxx
+furien_noflash.amxx
+furien_health.amxx
+furien_weapons.amxx
+furien_shop.amxx
+furien_defusekit.amxx
+furien_armor.amxx
+furien_wallhang.amxx
+furien_weapons.amxx
+frostnades.amxx
+flare.amxx
+swich.amxx
+pingfaker2.amxx
+ad_manager.amxx
+cer_instelat.amxx
+fituesit.amxx
+furien_wallhang.amxx
+Best-Player.amxx
+bhop.amxx
+descriptive_fire_in_the_hole.amxx
+enemy_down.amxx
+fakefull_original.amxx
+GHW_Weapon_Replacement.amxx
+kill_chat_msg.amxx
+round_chat_msg.amxx
+round_furien_antifurien.amxx
+nademodes.amxx
+Bn-menu.amxx
+haha.amxx
+Furien-wallhang-free.amxx
+amx_adminmodel.amxx
+auto_restart_vl.amxx
+autoteamswitch.amxx
+guns.amxx
+WeaponTrail.amxx
+dontsayips.amxx
+auto_join_on_connect.amxx
+gd_admin-menu.amxx
+Bn_menu.amxx
+admin_vip.amxx
+speclist.amxx
+AdminPrefixes.amxx
+abd.amxx
+advanced_tracers.amxx
+conectplayermessage.amxx debug
+furien_anticamp.amxx debug
+Bn-Knife.amxx debug
+players_models.amxx 
+mg_box.amxx
+bind.amxx
+Glow-online-admin.amxx
+GHW_connect.amxx
+show_admins_vl.amxx
+deathtypeefeect.amxx
+colored_flashbangs.amxx
+Level-Up.amxx
+resetscore.amxx
+semiclip.amxx
+dmc233.amxx
+Gun.amxx
+Free-Wallhang.amxx
+Bn~Sounds.amxx
+loading_music.amxx
+
+
+; // AMx Antis //
+file_watcher.amxx
+banip_fakes.amxx
+rcon_hackfix.amxx
+afs_fixed.amxx
+anti_change_name.amxx
+fixautobuy.amxx
+block_advertising.amxx
+saycharfix.amxx
+
+-
+dp_test.amxx
+updatehint.amxx
+allchat.amxx
+antiddos.amxx
+fast_fix_hashsign.amxx
+fast_sniper_switch.amxx
+file_watcher.amxx
+fix_bugs_chat.amxx
+fix_colorchat_exploit.amxx
+fix_no_spret.amxx
+fix_rcon.amxx
+fixcrash.amxx
+surflix.amxx
+surflix1.amxx
+Fix_Buffer_Overload_v3.amxx
+client_autoexec.amxx

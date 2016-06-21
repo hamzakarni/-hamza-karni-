@@ -1,0 +1,59 @@
+[en]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Auto Restart Round In ^n %d Sec.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Game Started. Go Go Go !!!
+
+[de]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automatischer Runden Neustart In ^n %d Sek.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Spiel Gestartet. Los Los Los !!!
+
+[sv]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automatisk omstart av runda om ^n %d sekunder
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Spelet har b'o'rjat. Go Go Go !!!
+
+[es]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Auto Restart en ^n %d Sec.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] El Juego Empezo. Vamos Vamos Vamos !!!
+
+[lt]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automatinis Round'o Restartas Bus Uz ^n %d Sekundziu.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Zaidimas Restartuotas. Pirmyn Pirmyn Pirmyn !!!  
+
+[nl]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n De ronde herstart automatisch in ^n %d seconden
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Het spel is gestart. Ga Ga Ga!!!
+
+[bg]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Avtomatichnoto restartirane na runda shte zapochne sled ^n %d sekundi
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Igrata zapochna. Davai davai davai!!! 
+
+[fin]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automaattinen kierroksen uudelleenkäynnistys ^n %d sekunnissa
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Peli alkoi. Mene Mene Mene!!!
+
+[sr]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automatski start nove runde za ^n %d sekundi
+GAME_STARTED = [#~~BlaCk~NiGhT~~#]  Igra je pocela. idemo idemo idemo !!!
+
+[pt]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Reinicio automático da ronda em ^n %d Seg
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] O jogo começou. Vai Vai Vai !!! 
+
+[pl]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Auto Restart Round za ^n %d Sek.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Gra rozpoczeta. Ruchy Ruchy Ruchy !!!
+
+[ro]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Urmeaza un auto-restart in ^n %d secunde
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Joc repornit.  GL&HF !!!
+
+[cz]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Automaticky Restart Kola Za ^n %d Sek.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Hra zacala. Go Go Go !!! 
+
+[fr]
+AUTO_RESTART = [#~~BlaCk~NiGhT~~#] ^n Redemarrage automatique du round dans ^n %d Sec.
+GAME_STARTED = [#~~BlaCk~NiGhT~~#] Le jeu a commence. En avant !!!
+
+[sk]
+AUTO_RESTART = [AMXX] ^n Automaticky Restart Kola Za ^n %d Sek.
+GAME_STARTED = [AMXX] Hra zacala. Go Go Go !!! 

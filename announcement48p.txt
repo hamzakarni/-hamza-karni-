@@ -1,0 +1,12 @@
+[en]
+MESSAGE_MOTD_TOP_HEADER = Counter Strike 1.6 KPS
+MESSAGE_MOTD_HEADER = Te Lutem downloado Conter Strike 1.6 KPS  !!!
+MESSAGE_MOTD_LINE1 = Conteri jot eshte shum i vjeter per me lujt ne ket server !
+MESSAGE_MOTD_LINE2 = Krejt KPS serverat tash dalin ne protocol v48!!!
+MESSAGE_MOTD_LINE3 = Per me downloadu apo me diskutu per counter strike 1.6 KPS 2nd
+MESSAGE_MOTD_LINE4_1 = ateher na vizito ne forumin tone..
+MESSAGE_MOTD_LINE4_2 = http://www.esportskosova.com/esk.zip
+MESSAGE_MOTD_LINE5_1 = kliko ne cilindo nga keta dy linka per te shkarku Counter Strike 1.6 KPS .. 
+MESSAGE_MOTD_LINE5_2 = http://www.esportskosova.com/esk.zip
+
+MESSAGE_KICK = vizito webfaqen ton per cs te ri: http://www.esportskosova.com/esk.zip

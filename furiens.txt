@@ -1,0 +1,36 @@
+[en]
+FURIEN_MENU_CVAR:
+\rFuriens Cvars\w :^n^n
+To take full advantage of Furien Mod,^n
+you must allow server to change your speed settings.^n
+Do you accept ?
+:
+FURIEN_FURIEN_WIN_MSG = Echipa Furiens a dominat aceasta runda!
+FURIEN_ANTI_WIN_MSG = Echipa Anti-furiens a dominat aceasta runda!
+FURIEN_CREDIT : Server [By-BlaCk-NiGhT Is The Best ThNx Bro :* !]
+FURIEN_LINK : Pentru www.facebook.com/xX.Chaoni.Xx
+
+
+[en]
+FURIEN_MENU_CVAR:
+\rFuriens Cvars\w :^n^n
+To take full advantage of Furien Mod,^n
+you must allow server to change your speed settings.^n
+Do you accept ?
+:
+FURIEN_FURIEN_WIN_MSG = The Furiens have won this round!
+FURIEN_ANTI_WIN_MSG = The Anti-Furiens have won this round!
+FURIEN_CREDIT = Server [By-BlaCk-NiGhT Is The Best ThNx Bro :* !]
+FURIEN_LINK = Pentru www.facebook.com/xX.Chaoni.Xx
+
+[fr]
+FURIEN_MENU_CVAR:
+\rFuriens Cvars\w :^n^n
+Pour profiter pleinement du mode Furien,^n
+tu dois autoriser le serveur a changer tes variables de vitesse.^n
+Accepter ?
+:
+FURIEN_FURIEN_WIN_MSG = Les Furiens ont remporté cette manche !
+FURIEN_ANTI_WIN_MSG = Les Anti-Furiens ont remporté cette manche !
+FURIEN_CREDIT = Server [By-BlaCk-NiGhT Is The Best ThNx Bro :* !]
+FURIEN_LINK = Pentru www.facebook.com/xX.Chaoni.Xx
